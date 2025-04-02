@@ -1,0 +1,33 @@
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(135deg, #907AD6,#84C7D0,#9368B7);
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .card {
+            background: #77AF9C ;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            max-width: 300px;
+        }
+        .cake {
+            font-size: 50px;
+        }
+        .btn {
+            background: #246EB9;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 10px;
+            font-size: 16px;
+        }
+        .btn:hover {
+            background: #4F7CAC;
+        }
+  
